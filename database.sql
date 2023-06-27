@@ -1,5 +1,5 @@
     -- List of psql commands 
-    -- Done to ensure no errors are made
+    -- Done to ensure no errors are made and copy/paste
     
     CREATE DATABASE gamedb
 
